@@ -25,5 +25,3 @@ uv run agent.py
 - `.gitignore`
 
 ## Video
-
-Add your hosted walkthrough video link here before submitting the repository link in Canvas.
